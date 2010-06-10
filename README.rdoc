@@ -1,5 +1,3 @@
 Just enough files from the jQTouch distribution to get going with.
 
 See http://www.jqtouch.com/
-
-(jQuery not included)

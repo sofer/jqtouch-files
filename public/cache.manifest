@@ -1,0 +1,36 @@
+CACHE MANIFEST
+# Cache manifest version 0.0.1
+# All files to be cached go below
+
+images/icon.png
+images/startup.png
+javascripts/jquery.min.js
+javascripts/jqtouch.min.js
+javascripts/mobile.js
+stylesheets/jqtouch.min.css
+stylesheets/theme.min.css
+stylesheets/img/loading.gif
+stylesheets/img/backButton.png
+stylesheets/img/chevron.png
+stylesheets/img/listGroup.png
+stylesheets/img/pinstripes.png
+stylesheets/img/toggle.png
+stylesheets/img/toolbar.png
+stylesheets/img/blueButton.png
+stylesheets/img/grayButton.png
+stylesheets/img/selection.png
+stylesheets/img/toggleOn.png
+stylesheets/img/whiteButton.png
+stylesheets/img/cancel.png
+stylesheets/img/listArrowSel.png
+stylesheets/img/on_off.png
+stylesheets/img/thumb.png
+stylesheets/img/toolButton.png
+
+
+NETWORK:
+# without the NETWORK declaration, no further resources can be downloaded when online
+# All URLs that start with the following lines
+# are whitelisted.
+http://localhost:3000/
+ 
