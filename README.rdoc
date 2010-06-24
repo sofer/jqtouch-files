@@ -1,3 +1,5 @@
 Just enough files from the jQTouch distribution to get going with.
 
 See http://www.jqtouch.com/
+
+Make sure to load the jqt-init.js file last. See http://www.sofer.com/blog/jqtouch.html.
